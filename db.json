@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Banana Bread",
+    "ingredients": ["flour", "butter", "bananas", "eggs", "baking soda"],
+    "reviews": [5, 5, 5, 2, 2, 5, 5, 1, 0]
+  },
+  {
+    "id": 2,
+    "name": "Pizza",
+    "ingredients": ["flour", "water", "yeast", "water", "tomato", "anchovies"],
+    "reviews": [1]
+  }
+]
